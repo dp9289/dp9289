@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dp9289
 - 👀 I’m interested in Frontend Development
-- 🌱 I’m currently JavaScript along with learning Responsive Web Design
+- 🌱 I’m currently learning JavaScript.
 - 📫 Reach me at deep.patel9289@gmail.com
 
 <!---
