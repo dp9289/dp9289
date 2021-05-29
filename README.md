@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @dp9289
-- 👀 I’m interested in Frontend Development
+- 👋 Hi, I’m Deep Patel.
+- 👀 I’m a front-end enthusiast.
 - 🌱 I’m currently learning JavaScript.
 - 📫 Reach me at deep.patel9289@gmail.com
 
